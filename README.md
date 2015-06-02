@@ -1,5 +1,6 @@
 # Java-ReconnectingWebSocket
->基于Nathan Rajlich的Java-Websocket实现的java自动重连的客户端
+>基于Nathan Rajlich的Java-Websocket实现的java自动重连的客户端ReconnectingWSClient
+
 
 
 ## example
